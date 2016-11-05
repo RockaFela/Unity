@@ -1,4 +1,4 @@
-1478308146a:1:{s:19:"samples/contact.htm";a:8:{s:8:"fileName";s:19:"samples/contact.htm";s:7:"content";s:5506:"title = "Contact Us"
+1478360604a:1:{s:19:"samples/contact.htm";a:8:{s:8:"fileName";s:19:"samples/contact.htm";s:7:"content";s:5398:"title = "Contact Us"
 url = "/contact-us"
 layout = "default"
 ==
@@ -12,7 +12,7 @@ layout = "default"
                 <div class="row">
                     <div class="col-sm-5 text-center">
                         <div class="gmap">
-                            <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=JoomShaper,+Dhaka,+Dhaka+Division,+Bangladesh&amp;aq=0&amp;oq=joomshaper&amp;sll=37.0625,-95.677068&amp;sspn=42.766543,80.332031&amp;ie=UTF8&amp;hq=JoomShaper,&amp;hnear=Dhaka,+Dhaka+Division,+Bangladesh&amp;ll=23.73854,90.385504&amp;spn=0.001515,0.002452&amp;t=m&amp;z=14&amp;iwloc=A&amp;cid=1073661719450182870&amp;output=embed"></iframe>
+                           <iframe width="100%" height="600" src="http://www.maps.ie/create-google-map/map.php?width=100%&amp;height=600&amp;hl=en&amp;coord=8.146731109914857,4.721460908750942&amp;q=243%20Oloffa%20way%2C%20Offa%2C%20Kwara%20State+(Oloffa%20Palace)&amp;ie=UTF8&amp;t=h&amp;z=17&amp;iwloc=A&amp;output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
                         </div>
                     </div>
 
@@ -20,17 +20,17 @@ layout = "default"
                         <ul class="row">
                             <li class="col-sm-6">
                                 <address>
-                                    <h5>Head Office</h5>
-                                    <p>1537 Flint Street <br>
-                                    Tumon, MP 96911</p>
+                                    <h5>Palace</h5>
+                                    <p>199 Oloffa Way <br>
+                                    Offa, Kwara State</p>
                                     <p>Phone:670-898-2847 <br>
                                     Email Address:info@domain.com</p>
                                 </address>
 
                                 <address>
-                                    <h5>Zonal Office</h5>
-                                    <p>1537 Flint Street <br>
-                                    Tumon, MP 96911</p>                                
+                                    <h5>Offa Descendant Union [O.D.U] Nigeria</h5>
+                                    <p>56 Oloffa Way <br>
+                                    Offa, Kwara State</p>                                
                                     <p>Phone:670-898-2847 <br>
                                     Email Address:info@domain.com</p>
                                 </address>
@@ -105,7 +105,7 @@ layout = "default"
             </div><!--/.row-->
         </div><!--/.container-->
     </section><!--/#contact-page-->
-";s:5:"mtime";i:1419791400;s:6:"markup";s:5438:"<section id="contact-info">
+";s:5:"mtime";i:1478360001;s:6:"markup";s:5330:"<section id="contact-info">
         <div class="center">                
             <h2>How to Reach Us?</h2>
             <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
@@ -115,7 +115,7 @@ layout = "default"
                 <div class="row">
                     <div class="col-sm-5 text-center">
                         <div class="gmap">
-                            <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=JoomShaper,+Dhaka,+Dhaka+Division,+Bangladesh&amp;aq=0&amp;oq=joomshaper&amp;sll=37.0625,-95.677068&amp;sspn=42.766543,80.332031&amp;ie=UTF8&amp;hq=JoomShaper,&amp;hnear=Dhaka,+Dhaka+Division,+Bangladesh&amp;ll=23.73854,90.385504&amp;spn=0.001515,0.002452&amp;t=m&amp;z=14&amp;iwloc=A&amp;cid=1073661719450182870&amp;output=embed"></iframe>
+                           <iframe width="100%" height="600" src="http://www.maps.ie/create-google-map/map.php?width=100%&amp;height=600&amp;hl=en&amp;coord=8.146731109914857,4.721460908750942&amp;q=243%20Oloffa%20way%2C%20Offa%2C%20Kwara%20State+(Oloffa%20Palace)&amp;ie=UTF8&amp;t=h&amp;z=17&amp;iwloc=A&amp;output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
                         </div>
                     </div>
 
@@ -123,17 +123,17 @@ layout = "default"
                         <ul class="row">
                             <li class="col-sm-6">
                                 <address>
-                                    <h5>Head Office</h5>
-                                    <p>1537 Flint Street <br>
-                                    Tumon, MP 96911</p>
+                                    <h5>Palace</h5>
+                                    <p>199 Oloffa Way <br>
+                                    Offa, Kwara State</p>
                                     <p>Phone:670-898-2847 <br>
                                     Email Address:info@domain.com</p>
                                 </address>
 
                                 <address>
-                                    <h5>Zonal Office</h5>
-                                    <p>1537 Flint Street <br>
-                                    Tumon, MP 96911</p>                                
+                                    <h5>Offa Descendant Union [O.D.U] Nigeria</h5>
+                                    <p>56 Oloffa Way <br>
+                                    Offa, Kwara State</p>                                
                                     <p>Phone:670-898-2847 <br>
                                     Email Address:info@domain.com</p>
                                 </address>
