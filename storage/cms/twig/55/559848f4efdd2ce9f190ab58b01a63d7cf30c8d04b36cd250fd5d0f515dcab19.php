@@ -17,8 +17,8 @@ class __TwigTemplate_edbd66f1e330c9a350266308a51864d0109880b12f959ba286001511eb0
     {
         // line 1
         echo "<section id=\"error\" class=\"container text-center\">
-        <h1>404, Page Not Found</h1>
-        <p>The page you are looking for doesn't exist or another error occurred.</p>
+        <h1>404,This Page Cannot Be Found</h1>
+        <p>The page you are requested for doesn't exist or an error occurred.</p>
         <a class=\"btn btn-primary\" href=\"";
         // line 4
         echo $this->env->getExtension('Cms\Twig\Extension')->pageFilter("home");
@@ -44,8 +44,8 @@ class __TwigTemplate_edbd66f1e330c9a350266308a51864d0109880b12f959ba286001511eb0
     public function getSource()
     {
         return "<section id=\"error\" class=\"container text-center\">
-        <h1>404, Page Not Found</h1>
-        <p>The page you are looking for doesn't exist or another error occurred.</p>
+        <h1>404,This Page Cannot Be Found</h1>
+        <p>The page you are requested for doesn't exist or an error occurred.</p>
         <a class=\"btn btn-primary\" href=\"{{ 'home'|page }}\">GO BACK TO THE HOMEPAGE</a>
     </section><!--/#error-->";
     }

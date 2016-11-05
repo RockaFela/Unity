@@ -1,8 +1,8 @@
-1478199301a:1:{s:7:"top.htm";a:5:{s:8:"fileName";s:7:"top.htm";s:7:"content";s:1405:"    <div class="top-bar">
+1478308505a:1:{s:7:"top.htm";a:5:{s:8:"fileName";s:7:"top.htm";s:7:"content";s:1419:"    <div class="top-bar">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-6 col-xs-4">
-                        <div class="top-number"><p><i class="fa fa-phone-square"></i>  +0123 456 70 90</p></div>
+                        <div class="top-number"><p><a href="tel:+2348066692349" class="">Call Us</a>  +2348066692394</p></div>
                     </div>
                     <div class="col-sm-6 col-xs-8">
                        <div class="social">
@@ -24,11 +24,11 @@
                 </div>
             </div><!--/.container-->
 	</div><!--/.top-bar-->
-";s:5:"mtime";i:1419791400;s:6:"markup";s:1400:"<div class="top-bar">
+";s:5:"mtime";i:1478307899;s:6:"markup";s:1414:"<div class="top-bar">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-6 col-xs-4">
-                        <div class="top-number"><p><i class="fa fa-phone-square"></i>  +0123 456 70 90</p></div>
+                        <div class="top-number"><p><a href="tel:+2348066692349" class="">Call Us</a>  +2348066692394</p></div>
                     </div>
                     <div class="col-sm-6 col-xs-8">
                        <div class="social">

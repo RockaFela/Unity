@@ -20,7 +20,7 @@ class __TwigTemplate_0f4c670eeaf26766ccd9b5ebcf3031e9aa664907595bf8f6b58d575c364
             <div class=\"container\">
                 <div class=\"row\">
                     <div class=\"col-sm-6 col-xs-4\">
-                        <div class=\"top-number\"><p><i class=\"fa fa-phone-square\"></i>  +0123 456 70 90</p></div>
+                        <div class=\"top-number\"><p><a href=\"tel:+2348066692349\" class=\"\">Call Us</a>  +2348066692394</p></div>
                     </div>
                     <div class=\"col-sm-6 col-xs-8\">
                        <div class=\"social\">
@@ -60,7 +60,7 @@ class __TwigTemplate_0f4c670eeaf26766ccd9b5ebcf3031e9aa664907595bf8f6b58d575c364
             <div class=\"container\">
                 <div class=\"row\">
                     <div class=\"col-sm-6 col-xs-4\">
-                        <div class=\"top-number\"><p><i class=\"fa fa-phone-square\"></i>  +0123 456 70 90</p></div>
+                        <div class=\"top-number\"><p><a href=\"tel:+2348066692349\" class=\"\">Call Us</a>  +2348066692394</p></div>
                     </div>
                     <div class=\"col-sm-6 col-xs-8\">
                        <div class=\"social\">

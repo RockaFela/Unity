@@ -1,15 +1,15 @@
-1478199300a:1:{s:9:"error.htm";a:8:{s:8:"fileName";s:9:"error.htm";s:7:"content";s:418:"title = "Error Page (500)"
+1478308146a:1:{s:9:"error.htm";a:8:{s:8:"fileName";s:9:"error.htm";s:7:"content";s:411:"title = "Error Page (500)"
 url = "/error"
 layout = "default"
 ==
     <section id="error" class="container text-center">
-        <h1>Ooops! An Error Occured.</h1>
+        <h1>This is not Cool.</h1>
         <p>We're so sorry, the page you requested cannot be displayed due to an error.</p>
         <p><small><em>Error code: 500</em></small></p>
 		<a class="btn btn-primary" href="{{ 'home'|page }}">GO BACK TO THE HOMEPAGE</a>
     </section><!--/#error-->
-";s:5:"mtime";i:1419791400;s:6:"markup";s:349:"<section id="error" class="container text-center">
-        <h1>Ooops! An Error Occured.</h1>
+";s:5:"mtime";i:1478306222;s:6:"markup";s:342:"<section id="error" class="container text-center">
+        <h1>This is not Cool.</h1>
         <p>We're so sorry, the page you requested cannot be displayed due to an error.</p>
         <p><small><em>Error code: 500</em></small></p>
 		<a class="btn btn-primary" href="{{ 'home'|page }}">GO BACK TO THE HOMEPAGE</a>
